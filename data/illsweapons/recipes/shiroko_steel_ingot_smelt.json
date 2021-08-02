@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "illsweapons:shiroko_steel_ore"
+  },
+  "result": "illsweapons:shiroko_steel_ingot",
+  "experience": 3.0,
+  "cookingtime": 400
+}
