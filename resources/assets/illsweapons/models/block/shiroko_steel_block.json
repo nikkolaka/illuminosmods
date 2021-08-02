@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "illsweapons:blocks/shiroko_steel_block"
+  }
+}

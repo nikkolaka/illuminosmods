@@ -1,0 +1,15 @@
+{
+  "item.illsweapons.uchigatana": "Uchigatana",
+  "item.illsweapons.washingpole": "Washing Pole",
+  "item.illsweapons.petrified_shard": "Petrified Shard",
+  "item.illsweapons.shiroko_steel_ingot": "Shiro-Ko Steel Ingot",
+  "item.illsweapons.favor_helmet": "Helm of Favor",
+  "item.illsweapons.favor_chestplate": "Embraced Armor of Favor",
+  "item.illsweapons.favor_leggings": "Leggings of Favor",
+  "item.illsweapons.favor_boots": "Solleret of Favor",
+  "block.illsweapons.shiroko_steel_ore": "Shiro-Ko Steel Ore",
+  "block.illsweapons.shiroko_steel_block": "Shiro-Ko Steel Block",
+  "block.illsweapons.petrified_wood": "Petrified Wood",
+
+  "itemGroup.DarkSouls3": "Dark Souls 3"
+}

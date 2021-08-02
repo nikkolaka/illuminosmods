@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "illsweapons:items/shiroko_steel_ingot"
+  }
+}
